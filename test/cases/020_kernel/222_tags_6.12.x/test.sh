@@ -5,7 +5,7 @@
 
 set -e
 
-KERNEL=linuxkit/kernel:6.12.59-0ef72d722190ecfe0b3b37711f9a871a696e301a
+KERNEL=linuxkit/kernel:6.12.59-8c188f08ff3bbe4ed827b421f094ae62f21a4fe7
 
 # just include the common test
 . ../tags.sh
